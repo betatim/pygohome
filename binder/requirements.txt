@@ -1,1 +1,1 @@
--e src/pygohome
+-e ../src/pygohome
