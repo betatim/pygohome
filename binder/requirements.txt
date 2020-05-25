@@ -1,1 +1,1 @@
-../src/pygohome
+./src/pygohome
