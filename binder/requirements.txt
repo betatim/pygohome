@@ -1,1 +1,1 @@
-git+git://github.com/eumiro/pygohome/@binderize#egg=pygohome
+-e src/pygohome
